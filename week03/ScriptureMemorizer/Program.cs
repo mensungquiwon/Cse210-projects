@@ -50,6 +50,7 @@ class Program
         }
         Console.Clear();
         Console.WriteLine(scripture.GetDisplayText());
+        
 
 
 
