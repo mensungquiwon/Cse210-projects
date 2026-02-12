@@ -1,0 +1,25 @@
+using System;
+
+public class ListingActivity : Activity
+{
+    private int _count;
+    List<string> _prompts = new List<string>();
+
+    public ListingActivity()
+    {
+        
+    }
+    public void Run()
+    {
+        
+    }
+    public void GetRandomPrompt()
+    {
+        
+    }
+    public List<string> GetListFromUsers()
+    {
+        return _prompts; 
+    }
+
+}
