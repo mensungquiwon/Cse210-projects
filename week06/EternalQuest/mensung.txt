@@ -1,0 +1,4 @@
+700
+SimpleGoal|study habit|scriptural study|100|True
+EternalGoal|Come follow me|learning about the gospel of Jesus Christ|50
+ChecklistGoal|daily saving|save $10 everyday|500|1|50|1

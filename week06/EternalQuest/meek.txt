@@ -1,0 +1,4 @@
+0
+SimpleGoal|Give a talk|To speak in sacrament meeting when asked|100|False
+EternalGoal|Come follow me|study the come follow me manual every day|50
+ChecklistGoal|Daily saving|save $10 dollars everyday |100|5|10|0
